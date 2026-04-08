@@ -8,6 +8,7 @@ int main()
 {
     cout << "Hello World This is my first Git commit" << endl;
     cout << "GIt make scollaborating easy" << endl;
+    cout << "Feature, Branching is awesome" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
