@@ -12,6 +12,13 @@ int main()
     cout << "Feature, Branching is awesome" << endl;
     cout << "student ID: 45  | name: Zakary" << endl;
 
+    //simple addition calculator
+    int a = 7;
+    int b = 6;
+    int total;
+
+    total = a + b;
+    cout << total;
 
 
 

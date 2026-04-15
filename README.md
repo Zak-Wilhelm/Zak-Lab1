@@ -10,4 +10,7 @@ This is a simple C++ console application created for Git lb 1
 
 # Added a feature greeting
 
-#Student A name feature student info display
+# Student A name feature student info display
+
+# Addition calculator
+- two numbers added
