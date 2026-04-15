@@ -10,6 +10,7 @@ int main()
     cout << "Hello World This is my first Git commit by Student B" << endl;
     cout << "GIt make scollaborating easy" << endl;
     cout << "Feature, Branching is awesome" << endl;
+    cout << "student ID: 45  | name: Zakary" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

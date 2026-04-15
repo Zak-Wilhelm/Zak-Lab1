@@ -9,3 +9,5 @@ This is a simple C++ console application created for Git lb 1
 - How to collaborate using Github
 
 # Added a feature greeting
+
+#Student A name feature student info display
