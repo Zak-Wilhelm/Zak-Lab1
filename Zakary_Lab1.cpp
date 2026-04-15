@@ -21,7 +21,7 @@ int main()
 
     //Student B future complete
     int x = 5 * 6;
-	cout << "The value of x is: " << x << endl;
+    cout << "The value of x is: " << x << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
