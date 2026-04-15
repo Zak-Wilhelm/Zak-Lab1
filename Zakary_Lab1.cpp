@@ -11,17 +11,6 @@ int main()
     cout << "GIt make scollaborating easy" << endl;
     cout << "Feature, Branching is awesome" << endl;
     cout << "student ID: 45  | name: Zakary" << endl;
-
-
-
-
-
-
-
-
-    //Student B future complete
-    int x = 5 * 6;
-	cout << "The value of x is: " << x << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
