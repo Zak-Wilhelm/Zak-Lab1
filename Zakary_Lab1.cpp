@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World This is my first Git commit by student A" << endl;
+    cout << "Hello World This is my first Git commit by Student B" << endl;
     cout << "GIt make scollaborating easy" << endl;
     cout << "Feature, Branching is awesome" << endl;
 }
